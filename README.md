@@ -12,3 +12,5 @@ A 5 minutes meshup of
 # pins
 - connect 3v, SPIs and ground
 
+# arduino
+- you might have to change I2C address to primary: https://github.com/cpietsch/wio-bme680/blob/main/iaq.ino#L59
