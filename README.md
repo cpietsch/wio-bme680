@@ -1,7 +1,7 @@
 # wio-bme680
 Display BME680 BSEC data on the Wio-Terminal
 
-![Screenshot 2021-07-17 095159](https://user-images.githubusercontent.com/129529/126030298-05d37afd-27f6-4484-88b0-d16b2ddaef17.jpg)
+![wio-bme680](https://user-images.githubusercontent.com/129529/126030408-ad38477c-b08e-49ff-aeae-b96326381d15.jpg)
 
 A 5 minutes mashup of 
 - https://github.com/Seeed-Studio/Seeed_Arduino_LCD/blob/master/examples/320x240/TFT_Meters/TFT_Meters.ino
@@ -18,5 +18,3 @@ A 5 minutes mashup of
 # arduino
 - you might have to change I2C address to primary: https://github.com/cpietsch/wio-bme680/blob/main/iaq.ino#L59
 - upload iaq.ino to your wio terminal
-
-![Screenshot 2021-07-17 095256](https://user-images.githubusercontent.com/129529/126030291-5cffba84-8b99-477a-94c6-38be0672ef2b.jpg)
