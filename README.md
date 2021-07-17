@@ -1,5 +1,5 @@
 # wio-bme680
-Display BME680 data like IAQ on the Wio-Terminal
+Display BME680 BSEC data on the Wio-Terminal
 
 ![Screenshot 2021-07-17 095159](https://user-images.githubusercontent.com/129529/126030298-05d37afd-27f6-4484-88b0-d16b2ddaef17.jpg)
 
